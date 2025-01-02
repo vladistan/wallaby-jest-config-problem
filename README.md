@@ -1,0 +1,1 @@
+# wallaby-jest-config-problem
