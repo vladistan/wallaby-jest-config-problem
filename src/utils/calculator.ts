@@ -1,6 +1,7 @@
 export class Calculator {
   public add(a: number, b: number): number {
-    return a + b + 3;
+    console.log('Hello', a, b);
+    return a + b;
   }
 
   public subtract(a: number, b: number): number {
